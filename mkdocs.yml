@@ -1,8 +1,8 @@
-site_name: "POOA"
-site_description: "Disciplina POOA (UCSAL): SOLID, GoF, Threads, JDBC, Reflexão e Anotações."
-site_url: "https://pooadoc.github.io/"
-repo_url: https://github.com/pooadoc/pooadoc.github.io
-repo_name: pooadoc.github.io
+site_name: "DOCS"
+site_description: "Documentação para desenvolvimento de software."
+site_url: "https://ucsal.github.io/docs"
+repo_url: https://github.com/ucsal/docs
+repo_name: docs
 edit_uri: edit/main/docs/
 theme:
   name: material
@@ -95,15 +95,15 @@ copyright: >
 
 nav:
   - INÍCIO: index.md
-  - SOLID:
-      - solid/index.md
-      - SRP: solid/srp.md
-      - OCP: solid/ocp.md
-      - LSP: solid/lsp.md
-      - ISP: solid/isp.md
-      - DIP: solid/dip.md
-  - GOF: gof/index.md
-  - JDBC: jdbc/index.md
+#  - SOLID:
+#      - solid/index.md
+#      - SRP: solid/srp.md
+#      - OCP: solid/ocp.md
+#      - LSP: solid/lsp.md
+#      - ISP: solid/isp.md
+#      - DIP: solid/dip.md
+#  - GOF: gof/index.md
+#  - JDBC: jdbc/index.md
   - GUIAS: 
     - guias/index.md
     - GIT GITHUB: guias/git-github.md
