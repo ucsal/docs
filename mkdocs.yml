@@ -103,7 +103,8 @@ nav:
 #      - ISP: solid/isp.md
 #      - DIP: solid/dip.md
 #  - GOF: gof/index.md
-#  - JDBC: jdbc/index.md
+  - METODOLOGIAS: 
+    - metodologias/pushpull.md
   - GUIAS: 
     - guias/index.md
     - GIT GITHUB: guias/git-github.md
